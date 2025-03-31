@@ -39,7 +39,7 @@ Identify anomalies where power output deviates beyond 2 standard deviations from
 **Data Storage:**
 
 
-Store cleaned data and computed statistics in a Parquet file.
+Store cleaned data and computed statistics in Parquet files.
 
 
 
